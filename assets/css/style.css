@@ -915,6 +915,7 @@ ul {
 .services-item h3 a {
   color: #00440B;
   font-weight: 500;
+  font-size: 1.3rem;
 }
 .services-item h3 a:hover {
   letter-spacing: 1px;
